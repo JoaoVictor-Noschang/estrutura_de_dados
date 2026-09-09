@@ -119,6 +119,16 @@ Implementação das estuturas condicionais <code>if</code>, <code>if/else</code>
 </a>
 
 ---
+
+### Aula 05 — Estuturas de Repetição
+
+Implementação das estuturas de repetição <code>while</code>, <code>do...while</code> e <code>for</code>.
+
+<a href="./aulas/aula05_0809">
+  <img src="https://img.shields.io/badge/Acessar_Aula_05-4285F4?style=for-the-badge" alt="Acessar Aula 05">
+</a>
+
+---
 </br>
 
 # 💪 Atividades/Exercícios/Listas

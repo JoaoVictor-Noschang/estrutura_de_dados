@@ -110,21 +110,31 @@ Continuação dos comandos básicos: formas de imprimir valores de variaveis e a
 
 ---
 
-### Aula 04 — Estuturas de Decição/Condição
+### Aula 03 — Estuturas de Decição/Condição
 
 Implementação das estuturas condicionais <code>if</code>, <code>if/else</code> e <code>switch/case</code>.
 
-<a href="./aulas/aula04_0109">
-  <img src="https://img.shields.io/badge/Acessar_Aula_04-4285F4?style=for-the-badge" alt="Acessar Aula 04">
+<a href="./aulas/aula03_0109">
+  <img src="https://img.shields.io/badge/Acessar_Aula_03-4285F4?style=for-the-badge" alt="Acessar Aula 03">
 </a>
 
 ---
 
-### Aula 05 — Estuturas de Repetição
+### Aula 04 — Estuturas de Repetição
 
 Implementação das estuturas de repetição <code>while</code>, <code>do...while</code> e <code>for</code>.
 
-<a href="./aulas/aula05_0809">
+<a href="./aulas/aula04_0809">
+  <img src="https://img.shields.io/badge/Acessar_Aula_04-4285F4?style=for-the-badge" alt="Acessar Aula 05">
+</a>
+
+---
+
+### Aula 05 — Vetores e Strings
+
+Implementação de vetores e representações de strings em linguagem C.
+
+<a href="./aulas/aula05_15_09">
   <img src="https://img.shields.io/badge/Acessar_Aula_05-4285F4?style=for-the-badge" alt="Acessar Aula 05">
 </a>
 
@@ -165,7 +175,7 @@ Acessar exercícios específicos
   </tbody>
 </table>
 
-### 2️⃣ Lista 02 — Estuturas de Decição/Condicionais
+### 2️⃣ Lista 02 — Estruturas de Decição/Condicionais
 
 Exercícios para praticar declaração de variaveis, atribuição de tipos, utilização de operadores aritméticos e comandos de entradas e saída de dados.
 
@@ -194,6 +204,37 @@ Acessar exercícios específicos
       <td><a href="./listas_atividades/lista_02_edd/ex07.c">Exercício 07</a></td>
       <td><a href="./listas_atividades/lista_02_edd/ex08.c">Exercício 08</a></td>
       <td>=)</td>
+    </tr>
+  </tbody>
+</table>
+
+---
+</br>
+
+### 2️⃣ Lista 03 — Estruturas de Repetição
+
+Exercícios para praticar a utilização das estruturas de repetição <code>while</code>, <code>do...while</code> e <code>for</code>.
+
+> Realizada na data de 05/09 à 16/09
+
+<a href="./listas_atividades/lista_03_edd">
+  <img src="https://img.shields.io/badge/Acessar_Lista_03-4285F4?style=for-the-badge" alt="Acessar Lista 03 Completa">
+</a>
+
+<br>
+Acessar exercícios específicos
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./listas_atividades/lista_02_edd/ex01.c">Exercício 01</a></td>
+      <td><a href="./listas_atividades/lista_02_edd/ex02.c">Exercício 02</a></td>
+      <td><a href="./listas_atividades/lista_02_edd/ex03.c">Exercício 03</a></td>
+    </tr>
+    <tr>
+      <td><a href="./listas_atividades/lista_02_edd/ex04.c">Exercício 04</a></td>
+      <td><a href="./listas_atividades/lista_02_edd/ex05.c">Exercício 05</a></td>
+      <td><a href="./listas_atividades/lista_02_edd/ex06.c">Exercício 06</a></td>
     </tr>
   </tbody>
 </table>

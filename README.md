@@ -208,10 +208,7 @@ Acessar exercícios específicos
   </tbody>
 </table>
 
----
-</br>
-
-### 2️⃣ Lista 03 — Estruturas de Repetição
+### 3️⃣ Lista 03 — Estruturas de Repetição
 
 Exercícios para praticar a utilização das estruturas de repetição <code>while</code>, <code>do...while</code> e <code>for</code>.
 
@@ -227,14 +224,42 @@ Acessar exercícios específicos
 <table>
   <tbody>
     <tr>
-      <td><a href="./listas_atividades/lista_02_edd/ex01.c">Exercício 01</a></td>
-      <td><a href="./listas_atividades/lista_02_edd/ex02.c">Exercício 02</a></td>
-      <td><a href="./listas_atividades/lista_02_edd/ex03.c">Exercício 03</a></td>
+      <td><a href="./listas_atividades/lista_03_edd/ex01.c">Exercício 01</a></td>
+      <td><a href="./listas_atividades/lista_03_edd/ex02.c">Exercício 02</a></td>
+      <td><a href="./listas_atividades/lista_03_edd/ex03.c">Exercício 03</a></td>
     </tr>
     <tr>
-      <td><a href="./listas_atividades/lista_02_edd/ex04.c">Exercício 04</a></td>
-      <td><a href="./listas_atividades/lista_02_edd/ex05.c">Exercício 05</a></td>
-      <td><a href="./listas_atividades/lista_02_edd/ex06.c">Exercício 06</a></td>
+      <td><a href="./listas_atividades/lista_03_edd/ex04.c">Exercício 04</a></td>
+      <td><a href="./listas_atividades/lista_03_edd/ex05.c">Exercício 05</a></td>
+      <td><a href="./listas_atividades/lista_03_edd/ex06.c">Exercício 06</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 2️⃣ Lista 04 — Vetores e Strings
+
+Exercícios para praticar a utilização de vetores e declaração de strings (cadeias de caracteres)
+
+> Realizada na data de 05/09 à 16/09
+
+<a href="./listas_atividades/lista_04_edd">
+  <img src="https://img.shields.io/badge/Acessar_Lista_04-4285F4?style=for-the-badge" alt="Acessar Lista 04 Completa">
+</a>
+
+<br>
+Acessar exercícios específicos
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./listas_atividades/lista_04_edd/ex01.c">Exercício 01</a></td>
+      <td><a href="./listas_atividades/lista_04_edd/ex02.c">Exercício 02</a></td>
+      <td><a href="./listas_atividades/lista_04_edd/ex03.c">Exercício 03</a></td>
+    </tr>
+    <tr>
+      <td><a href="./listas_atividades/lista_04_edd/ex04.c">Exercício 04</a></td>
+      <td><a href="./listas_atividades/lista_04_edd/ex05.c">Exercício 05</a></td>
+      <td><a href="./listas_atividades/lista_04_edd/ex06.c">Exercício 06</a></td>
     </tr>
   </tbody>
 </table>

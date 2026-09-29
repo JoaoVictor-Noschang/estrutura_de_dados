@@ -139,6 +139,16 @@ Implementação de vetores e representações de strings em linguagem C.
 </a>
 
 ---
+
+## Aula 06 — Matrtizes e Funções
+
+A utilização de matrizes para armazenar dados de forma bidimensional. E a implementação da modulariação com as funções em linguagem C.
+
+<a href="./aulas/aula06_2209">
+  <img src="https://img.shields.io/badge/Acessar_Aula_06-4285F4?style=for-the-badge" alt="Acessar Aula 06">
+</a>
+
+---
 </br>
 
 # 💪 Atividades/Exercícios/Listas

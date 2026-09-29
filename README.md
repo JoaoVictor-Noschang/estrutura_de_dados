@@ -246,7 +246,7 @@ Acessar exercícios específicos
   </tbody>
 </table>
 
-### 2️⃣ Lista 04 — Vetores e Strings
+### 4️⃣ Lista 04 — Vetores e Strings 
 
 Exercícios para praticar a utilização de vetores e declaração de strings (cadeias de caracteres)
 
@@ -270,6 +270,32 @@ Acessar exercícios específicos
       <td><a href="./listas_atividades/lista_04_edd/ex04.c">Exercício 04</a></td>
       <td><a href="./listas_atividades/lista_04_edd/ex05.c">Exercício 05</a></td>
       <td><a href="./listas_atividades/lista_04_edd/ex06.c">Exercício 06</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 5️⃣ Lista 05 — Matrizes e Modularidade (Funções)
+
+Exercícios para praticar a utilização de matrizes e a modularização do código com funções.
+
+> Realizada na data de 22/09 à 29/09
+
+<a href="./listas_atividades/lista_05_edd">
+  <img src="https://img.shields.io/badge/Acessar_Lista_05-4285F4?style=for-the-badge" alt="Acessar Lista 05 Completa">
+</a>
+
+<br>
+Acessar exercícios específicos
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./listas_atividades/lista_05_edd/ex01.c">Exercício 01</a></td>
+      <td><a href="./listas_atividades/lista_05_edd/ex02.c">Exercício 02</a></td>
+    </tr>
+    <tr>
+      <td><a href="./listas_atividades/lista_05_edd/ex03.c">Exercício 03</a></td>
+      <td><a href="./listas_atividades/lista_05_edd/ex04.c">Exercício 04</a></td>
     </tr>
   </tbody>
 </table>

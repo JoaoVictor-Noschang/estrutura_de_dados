@@ -36,3 +36,22 @@ int main() {
 
     return 0;
 }
+
+#include <stdio.h>
+
+// Função recursiva para calcular o fatorial
+int fatorial(int n) {
+    // Caso Base: 0! e 1! equivalem a 1
+    if (n <= 1) {
+        return 1;
+    }
+    
+    // Caso Recursivo: n * fatorial do número anterior
+    return n * fatorial(n - 1);
+}
+
+int main() {
+    int numero = 5;
+    printf("O fatorial de %d e: %d\n", numero, fatorial(numero));
+    return 0;
+}

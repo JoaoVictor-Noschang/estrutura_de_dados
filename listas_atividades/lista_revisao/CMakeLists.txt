@@ -1,0 +1,15 @@
+cmake_minimum_required(VERSION 4.3)
+project(lista_revisao C)
+
+set(CMAKE_C_STANDARD 11)
+
+add_executable(lista_revisao ex01.c)
+add_executable(ex2 ex02.c)
+add_executable(ex3 ex03.c)
+add_executable(ex5 ex05.c)
+add_executable(ex4 ex04.c)
+add_executable(ex6 ex06.c)
+add_executable(ex7 ex07.c)
+add_executable(ex8 ex08.c)
+add_executable(ex9 ex09.c)
+add_executable(ex10 ex10.c)

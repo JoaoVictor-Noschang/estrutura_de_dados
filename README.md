@@ -31,17 +31,20 @@ A estrutura do repositório segue uma organização simples para facilitar a loc
 ```text
 estrutura-de-dados/
 │
-├── aulas/
-│   ├── aula-01/
-│   ├── aula-02/
-│   ├── aula-03/
+├── aulas/                    → códigos apresentados em aula
+│   ├── aula01_1708/
+│   ├── aula02_18_08/
 │   └── ...
 │
-├── atividades/
-│   ├── atividade-01/
-│   ├── atividade-02/
-│   ├── atividade-03/
-│   └── ...
+├── listas_atividades/        → listas de exercícios resolvidas
+│   ├── lista_01_edd/
+│   ├── lista_02_edd/
+│   ├── ...
+│   └── lista_revisao/
+│
+├── atividades_avaliativas/   → resoluções das atividades avaliativas
+│   ├── atv_aval_03_edd/
+│   └── atv_avl_04_edd/
 │
 ├── README.md
 └── ...
@@ -140,12 +143,24 @@ Implementação de vetores e representações de strings em linguagem C.
 
 ---
 
-## Aula 06 — Matrtizes e Funções
+### Aula 06 — Matrizes e Funções
 
-A utilização de matrizes para armazenar dados de forma bidimensional. E a implementação da modulariação com as funções em linguagem C.
+A utilização de matrizes para armazenar dados de forma bidimensional. E a implementação da modularização com as funções em linguagem C.
 
 <a href="./aulas/aula06_2209">
   <img src="https://img.shields.io/badge/Acessar_Aula_06-4285F4?style=for-the-badge" alt="Acessar Aula 06">
+</a>
+
+---
+
+### Aula 12 — Registros (Structs)
+
+Criação de registros com <code>struct</code> para agrupar dados de tipos diferentes (nome, idade e nota de um aluno), leitura com <code>fgets()</code>/<code>scanf()</code> e passagem de struct para função.
+
+> Aula do dia 03/11
+
+<a href="./aulas/aula12_0311">
+  <img src="https://img.shields.io/badge/Acessar_Aula_12-4285F4?style=for-the-badge" alt="Acessar Aula 12">
 </a>
 
 ---
@@ -296,6 +311,114 @@ Acessar exercícios específicos
     <tr>
       <td><a href="./listas_atividades/lista_05_edd/ex03.c">Exercício 03</a></td>
       <td><a href="./listas_atividades/lista_05_edd/ex04.c">Exercício 04</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 6️⃣ Lista 06 — Registros (Structs)
+
+Exercícios para praticar a criação de registros com <code>struct</code>, leitura de seus campos e passagem de structs para funções.
+
+<a href="./listas_atividades/lista_06_edd">
+  <img src="https://img.shields.io/badge/Acessar_Lista_06-4285F4?style=for-the-badge" alt="Acessar Lista 06 Completa">
+</a>
+
+<br>
+Acessar exercícios específicos
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./listas_atividades/lista_06_edd/ex01.c">Exercício 01 — Cadastro de livro</a></td>
+      <td><a href="./listas_atividades/lista_06_edd/ex02.c">Exercício 02 — Área do retângulo</a></td>
+      <td><a href="./listas_atividades/lista_06_edd/ex03.c">Exercício 03 — Produto com desconto</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🔁 Lista de Revisão — Conteúdos do semestre
+
+Revisão geral dos conteúdos: operadores, estruturas condicionais, estruturas de repetição, vetores, strings, matrizes e funções.
+
+<a href="./listas_atividades/lista_revisao">
+  <img src="https://img.shields.io/badge/Acessar_Lista_de_Revisão-4285F4?style=for-the-badge" alt="Acessar Lista de Revisão Completa">
+</a>
+
+<br>
+Acessar exercícios específicos
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./listas_atividades/lista_revisao/ex01.c">Exercício 01 — Operadores e módulo</a></td>
+      <td><a href="./listas_atividades/lista_revisao/ex02.c">Exercício 02 — <code>if/else</code> e <code>&amp;&amp;</code></a></td>
+    </tr>
+    <tr>
+      <td><a href="./listas_atividades/lista_revisao/ex03.c">Exercício 03 — <code>switch/case</code></a></td>
+      <td><a href="./listas_atividades/lista_revisao/ex04.c">Exercício 04 — <code>while</code></a></td>
+    </tr>
+    <tr>
+      <td><a href="./listas_atividades/lista_revisao/ex05.c">Exercício 05 — <code>do...while</code></a></td>
+      <td><a href="./listas_atividades/lista_revisao/ex06.c">Exercício 06 — <code>for</code></a></td>
+    </tr>
+    <tr>
+      <td><a href="./listas_atividades/lista_revisao/ex07.c">Exercício 07 — Vetores</a></td>
+      <td><a href="./listas_atividades/lista_revisao/ex08.c">Exercício 08 — Strings</a></td>
+    </tr>
+    <tr>
+      <td><a href="./listas_atividades/lista_revisao/ex09.c">Exercício 09 — Matriz 3x3</a></td>
+      <td><a href="./listas_atividades/lista_revisao/ex10.c">Exercício 10 — Função com retorno</a></td>
+    </tr>
+  </tbody>
+</table>
+
+---
+</br>
+
+# 📋 Atividades Avaliativas
+
+Resoluções das atividades avaliativas da disciplina, para consulta e conferência após a realização.
+
+### Atividade Avaliativa 03 — Vetores e Funções
+
+Dois cenários práticos que usam vetores e funções para processar dados: vendas diárias (soma, média e dia de maior venda) e temperaturas da semana (média e alerta para a cultura).
+
+<a href="./atividades_avaliativas/atv_aval_03_edd">
+  <img src="https://img.shields.io/badge/Acessar_Atividade_03-34A853?style=for-the-badge" alt="Acessar Atividade Avaliativa 03">
+</a>
+
+<br>
+Acessar cenários específicos
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./atividades_avaliativas/atv_aval_03_edd/cenario_01/main.c">Cenário 01 — Vendas</a></td>
+      <td><a href="./atividades_avaliativas/atv_aval_03_edd/cenario_02/main.c">Cenário 02 — Temperaturas</a></td>
+    </tr>
+  </tbody>
+</table>
+
+### Atividade Avaliativa 04 — Funções
+
+Questões para praticar a criação de funções com parâmetros e retorno, incluindo funções <code>void</code> e uma função chamando outra.
+
+<a href="./atividades_avaliativas/atv_avl_04_edd">
+  <img src="https://img.shields.io/badge/Acessar_Atividade_04-34A853?style=for-the-badge" alt="Acessar Atividade Avaliativa 04">
+</a>
+
+<br>
+Acessar questões específicas
+
+<table>
+  <tbody>
+    <tr>
+      <td><a href="./atividades_avaliativas/atv_avl_04_edd/que01.c">Questão 01 — Soma de dois números</a></td>
+      <td><a href="./atividades_avaliativas/atv_avl_04_edd/que02.c">Questão 02 — Km para milhas</a></td>
+    </tr>
+    <tr>
+      <td><a href="./atividades_avaliativas/atv_avl_04_edd/que03.c">Questão 03 — Média e situação</a></td>
+      <td><a href="./atividades_avaliativas/atv_avl_04_edd/que04.c">Questão 04 — Desconto em compra</a></td>
     </tr>
   </tbody>
 </table>
